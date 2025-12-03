@@ -1,6 +1,6 @@
 
 
-[![shuailinxue](https://img.shields.io/badge/shuailin-github-blue?logo=github)](https://github.com/shuailinxue)
+[(https://img.shields.io/badge/shuailin-github-blue?logo=github)](https://github.com/shuailinxue)
 
 I am a master's student at the School of Information Science and Engineering, Yunnan University, supervised by Prof. Wenwen Min. Currently, I am conducting an internship at the School of Artificial Intelligence, Wuhan University, under the guidance of Prof. Lihua Zhang. My research focuses on deep learning, bioinformatics, spatial transcriptomics, and computational pathology. Specifically, I develop AI-based methods to integrate histoloy images with spatial transcriptomics data, aiming to achieve high-resolution spatial gene expression prediction, cell type identification, cancer region detection, and other meaningful tasks.
 
