@@ -1,4 +1,3 @@
-#### Published
 
 - <strong>Shuailin Xue</strong>, Jun Wan, Lihua Zhang, and Wenwen Min* (2026). SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection. <strong>AAAI (CCF A类会议, Oral)</strong>. [[Code]](https://github.com/wenwenmin/SpaCRD)
 
