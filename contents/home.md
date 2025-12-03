@@ -1,6 +1,6 @@
 
 
-[![shuailinxue](https://img.shields.io/badge/shuailinxue-github-blue?logo=github)](https://github.com/shuailinxue)
+[![shuailinxue](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/shuailinxue)
 
 I am a graduate student interested in deep learning and bioinformatics.
 
