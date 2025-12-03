@@ -2,7 +2,7 @@
 
 [![shuailinxue](https://img.shields.io/badge/shuailin-github-blue?logo=github)](https://github.com/shuailinxue)
 
-I am a graduate student interested in deep learning and bioinformatics.
+I am a master's student at the School of Information Science and Engineering, Yunnan University, supervised by Prof. Wenwen Min. Currently, I am conducting an internship at the School of Artificial Intelligence, Wuhan University, under the guidance of Prof. Lihua Zhang. My research focuses on deep learning, bioinformatics, spatial transcriptomics, and computational pathology. Specifically, I develop AI-based methods to integrate histoloy images with spatial transcriptomics data, aiming to achieve high-resolution spatial gene expression prediction, cell type identification, cancer region detection, and other meaningful tasks.
 
 #### Contact
 
@@ -10,10 +10,10 @@ Email: xueshuailin[at]stu.ynu.edu.cn
 
 #### Education
 
-Intern, School of Artificial Intelligence, School of Computer Science, Wuhan University, 2025—\
+Intern, School of Artificial Intelligence, Wuhan University, 2025—\
 M.E., School of Information Science and Engineering, Yunnan University, 2023—\
-B.E., School of Information Science and Engineering, Henan University of Technology, 2019—2023.
+B.E., School of Information Science and Engineering, Henan University of Technology, 2019—2023
 
 #### Research Interests
-Deep Learning, AI for Science, Bioinformatics.
+Deep Learning, Bioinformatics, Spatial Transcriptomics, Computational Pathology.
 
