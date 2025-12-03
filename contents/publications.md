@@ -1,16 +1,11 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Shuailin Xue</strong>, Jun Wan, Lihua Zhang, and Wenwen Min* (2026). SpaCRD: Multimodal Deep Fusion of Histology and Spatial Transcriptomics for Cancer Region Detection. <strong>AAAI (CCF A类会议, Oral)</strong>. [[Code]](https://github.com/wenwenmin/SpaCRD)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Shuailin Xue</strong>, Changmiao Wang, Xiaomao Fan, and Wenwen Min* (2025). Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location, and histology using GCN. <strong>MICCAI (CCF B类会议, Best Computational Pathology Paper Award)</strong>. [[Paper]](https://doi.org/10.1007/978-3-032-05169-1_29)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Shuailin Xue</strong>, Fangfang Zhu, Jinyu Chen, and Wenwen Min* (2024). Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location, and histology using GCN. <strong>Briefings in Bioinformatics (CCF B类期刊)</strong>. [[Paper]](https://doi.org/10.1093/bib/bbae630)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Wenwen Min* <strong>(指导教师)</strong>, <strong>Shuailin Xue</strong>, Fangfang Zhu, Taosheng, Xu, Changmiao Wang and Hong-Bo Xie (2025). SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. <strong>tsinghua science and technology (中科院二区)</strong>. [[Paper]](https://doi.org/10.26599/TST.2025.9010087)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- <strong>Shuailin Xue</strong>, Fangfang Zhu, Changmiao Wang, and Wenwen Min* (2024). stEnTrans: Transformer-Based Deep Learning for Spatial Transcriptomics Enhancement. <strong>ISBRA (CCF C类会议)</strong>. [[Paper]](https://doi.org/10.1007/978-981-97-5128-0_6)
