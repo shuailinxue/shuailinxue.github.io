@@ -1,4 +1,4 @@
-
+### Modification Guidelines
 ```.
 .
 ├── contents
@@ -9,17 +9,11 @@
     └── js
 ```
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
+(1) Modify the content of each section, which corresponds to `contents/*.md`.
 
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
+(2) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
 
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
-
-(5) Push it: 
-```
-git commit -am 'init'
-git push
-```
+(3) Replace background image and photo with new ones for your web pages in `static/assets/img/`
 
 ### Setup
 (1) Under your repository name, click `Settings`.
