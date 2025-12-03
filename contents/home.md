@@ -8,7 +8,7 @@ I am a master's student at the School of Information Science and Engineering, Yu
 
 #### Contact
 
-Email: xueshuailin[at]stu.ynu.edu.cn
+Email: xueshuailin[at]stu.ynu.edu.cn; xueshuailin[at]163.com
 
 #### Education
 
